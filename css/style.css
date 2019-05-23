@@ -13,11 +13,7 @@ body {
   background-image: url("img/bg.jpg");
   background-position: top center;
   background-repeat: no-repeat;
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
->>>>>>> 72511a8bb7d824d38c6abe0e87dd59e11add5492
 }
 
 .inner-page {
@@ -209,7 +205,5 @@ a {
 .restore:hover,
 .restore:focus {
   text-decoration: none;
-=======
 
->>>>>>> 3b45083c033ed5273dcc0f384233581b19683541
 }
